@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b90bde8c-61f8-472b-b740-e459ae8b1c24" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D_printed_files/bar.stl" beforeDir="false" afterPath="$PROJECT_DIR$/../3D_printed_files/bar.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D_printed_files/base.stl" beforeDir="false" afterPath="$PROJECT_DIR$/../3D_printed_files/base.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D_printed_files/camera_mount.scad" beforeDir="false" afterPath="$PROJECT_DIR$/../3D_printed_files/camera_mount.scad" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D_printed_files/camera_mount.stl" beforeDir="false" afterPath="$PROJECT_DIR$/../3D_printed_files/camera_mount.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D_printed_files/led_support.stl" beforeDir="false" afterPath="$PROJECT_DIR$/../3D_printed_files/led_support.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D_printed_files/mount_holder.stl" beforeDir="false" afterPath="$PROJECT_DIR$/../3D_printed_files/mount_holder.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D_printed_files/prism.scad" beforeDir="false" afterPath="$PROJECT_DIR$/../3D_printed_files/prism.scad" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D_printed_files/spacer.stl" beforeDir="false" afterPath="$PROJECT_DIR$/../3D_printed_files/spacer.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D_printed_files/spring_holder.stl" beforeDir="false" afterPath="$PROJECT_DIR$/../3D_printed_files/spring_holder.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D_printed_files/structure.scad" beforeDir="false" afterPath="$PROJECT_DIR$/../3D_printed_files/structure.scad" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D_printed_files/structure.stl" beforeDir="false" afterPath="$PROJECT_DIR$/../3D_printed_files/structure.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D_printed_files/top.scad" beforeDir="false" afterPath="$PROJECT_DIR$/../3D_printed_files/top.scad" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3D_printed_files/top.stl" beforeDir="false" afterPath="$PROJECT_DIR$/../3D_printed_files/top.stl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/DATA_CAPTURE.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/DATA_CAPTURE.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Data_Acquisition_Main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Data_Acquisition_Main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Exposures" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Exposures" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Focusing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Focusing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Focusing4LEDs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Focusing4LEDs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Misc. Scripts/CameraCapture.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Misc. Scripts/CameraCapture.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Misc. Scripts/Shutdown.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Misc. Scripts/Shutdown.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Misc. Scripts/Unicorn Tests/UnicornBlinkingPattern2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Misc. Scripts/Unicorn Tests/UnicornBlinkingPattern2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Misc. Scripts/Unicorn Tests/UnicornBlinkingPattern_Complete.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Misc. Scripts/Unicorn Tests/UnicornBlinkingPattern_Complete.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Misc. Scripts/Unicorn Tests/UnicornBlinkingPatterns.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Misc. Scripts/Unicorn Tests/UnicornBlinkingPatterns.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Misc. Scripts/Unicorn Tests/unicorndemo.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Misc. Scripts/Unicorn Tests/unicorndemo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Misc. Scripts/Unicorn Tests/unicorntest.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Misc. Scripts/Unicorn Tests/unicorntest.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Misc. Scripts/focus_allLEDs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Misc. Scripts/focus_allLEDs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Misc. Scripts/image_saturation_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Misc. Scripts/image_saturation_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Misc. Scripts/shape_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Misc. Scripts/shape_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Misc. Scripts/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Misc. Scripts/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Multiplexed4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Multiplexed4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Multiplexed4_allLEDs.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Multiplexed4_allLEDs.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Multiplexed4_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Multiplexed4_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Multiplexed8.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Multiplexed8.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Multiplexed8_test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/Multiplexed8_test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/multiplexing_image_aquisition_OG.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/multiplexing_image_aquisition_OG.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/random_pattern_generator.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/random_pattern_generator.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/random_pattern_generator2.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/random_pattern_generator2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/sequential.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/sequential.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/wavelength_multiplexed.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/icg_share/data_2019-02-27_3/wavelength_multiplexed.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Backup/mikroskop/todo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Backup/mikroskop/todo.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FourierPtychographicImaging/Latex/Übersetzung.aux" beforeDir="false" afterPath="$PROJECT_DIR$/../FourierPtychographicImaging/Latex/Übersetzung.aux" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../FourierPtychographicImaging/Latex/Übersetzung.tex" beforeDir="false" afterPath="$PROJECT_DIR$/../FourierPtychographicImaging/Latex/Übersetzung.tex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Pollenmikroskop/Pollenpflanzen Mitteleuropa.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../Pollenmikroskop/Pollenpflanzen Mitteleuropa.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/DATA_CAPTURE.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/BLUE/Darkframe_0_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/BLUE/Darkframe_1_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/BLUE/ImgNo_0_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/BLUE/ImgNo_10_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/BLUE/ImgNo_11_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/BLUE/ImgNo_12_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/BLUE/ImgNo_13_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/BLUE/ImgNo_14_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/BLUE/ImgNo_15_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/BLUE/ImgNo_1_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/BLUE/ImgNo_2_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/BLUE/ImgNo_3_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/BLUE/ImgNo_4_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/BLUE/ImgNo_5_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/BLUE/ImgNo_6_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/BLUE/ImgNo_7_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/BLUE/ImgNo_8_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/BLUE/ImgNo_9_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/GREEN/Darkframe_0_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/GREEN/Darkframe_1_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/GREEN/ImgNo_0_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/GREEN/ImgNo_10_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/GREEN/ImgNo_11_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/GREEN/ImgNo_12_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/GREEN/ImgNo_13_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/GREEN/ImgNo_14_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/GREEN/ImgNo_15_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/GREEN/ImgNo_1_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/GREEN/ImgNo_2_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/GREEN/ImgNo_3_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/GREEN/ImgNo_4_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/GREEN/ImgNo_5_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/GREEN/ImgNo_6_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/GREEN/ImgNo_7_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/GREEN/ImgNo_8_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/GREEN/ImgNo_9_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/RED/Darkframe_0_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/RED/Darkframe_1_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/RED/ImgNo_0_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/RED/ImgNo_10_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/RED/ImgNo_11_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/RED/ImgNo_12_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/RED/ImgNo_13_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/RED/ImgNo_14_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/RED/ImgNo_15_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/RED/ImgNo_1_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/RED/ImgNo_2_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/RED/ImgNo_3_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/RED/ImgNo_4_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/RED/ImgNo_5_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/RED/ImgNo_6_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/RED/ImgNo_7_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/RED/ImgNo_8_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/Sequential/RED/ImgNo_9_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskop/todo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/BLUE/Darkframe_0_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/BLUE/Darkframe_1_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/BLUE/ImgNo_0_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/BLUE/ImgNo_10_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/BLUE/ImgNo_11_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/BLUE/ImgNo_12_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/BLUE/ImgNo_13_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/BLUE/ImgNo_14_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/BLUE/ImgNo_15_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/BLUE/ImgNo_1_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/BLUE/ImgNo_2_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/BLUE/ImgNo_3_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/BLUE/ImgNo_4_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/BLUE/ImgNo_5_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/BLUE/ImgNo_6_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/BLUE/ImgNo_7_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/BLUE/ImgNo_8_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/BLUE/ImgNo_9_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/GREEN/Darkframe_0_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/GREEN/Darkframe_1_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/GREEN/ImgNo_0_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/GREEN/ImgNo_10_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/GREEN/ImgNo_11_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/GREEN/ImgNo_12_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/GREEN/ImgNo_13_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/GREEN/ImgNo_14_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/GREEN/ImgNo_15_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/GREEN/ImgNo_1_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/GREEN/ImgNo_2_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/GREEN/ImgNo_3_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/GREEN/ImgNo_4_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/GREEN/ImgNo_5_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/GREEN/ImgNo_6_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/GREEN/ImgNo_7_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/GREEN/ImgNo_8_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/GREEN/ImgNo_9_colorgreen.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/RED/Darkframe_0_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/RED/Darkframe_1_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/RED/ImgNo_0_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/RED/ImgNo_10_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/RED/ImgNo_11_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/RED/ImgNo_12_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/RED/ImgNo_13_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/RED/ImgNo_14_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/RED/ImgNo_15_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/RED/ImgNo_1_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/RED/ImgNo_2_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/RED/ImgNo_3_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/RED/ImgNo_4_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/RED/ImgNo_5_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/RED/ImgNo_6_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/RED/ImgNo_7_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/RED/ImgNo_8_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/RED/ImgNo_9_colorred.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/Sequential/BLUE/Darkframe_0_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/Sequential/BLUE/Darkframe_1_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/Sequential/BLUE/ImgNo_0_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/Sequential/BLUE/ImgNo_10_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/Sequential/BLUE/ImgNo_11_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/Sequential/BLUE/ImgNo_12_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/Sequential/BLUE/ImgNo_13_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/Sequential/BLUE/ImgNo_14_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/Sequential/BLUE/ImgNo_15_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/Sequential/BLUE/ImgNo_1_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/Sequential/BLUE/ImgNo_2_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/Sequential/BLUE/ImgNo_3_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/Sequential/BLUE/ImgNo_4_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/Sequential/BLUE/ImgNo_5_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/Sequential/BLUE/ImgNo_6_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/Sequential/BLUE/ImgNo_7_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/Sequential/BLUE/ImgNo_8_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/Sequential/BLUE/ImgNo_9_colorblue.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/VVANF.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/nmpy.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/test.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../mikroskopNumpyKram/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../todo.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../todo.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="JupyterTrust" id="7249a75a-5588-488e-acef-fff55de316fc" />
+  <component name="ProjectId" id="1ilWSYhrshOEqWFnFPEjk2Upsha" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/images/configs/1606282172" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/images/Test" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/images/configs" />
+      <recent name="$PROJECT_DIR$/OldShit" />
+      <recent name="$PROJECT_DIR$/images/Test" />
+      <recent name="D:\SHK2020\Mikroskop\images\Test" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.processImages">
+    <configuration name="ImageOverlay" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mikroskop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../ImageProcessing/ImageOverlay.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="focusing" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mikroskop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/focusing.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generateConfig" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mikroskop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/generateConfig.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kamera" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mikroskop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kamera.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Mikroskop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OldShit/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="processImages" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Mikroskop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/processImages.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.processImages" />
+        <item itemvalue="Python.focusing" />
+        <item itemvalue="Python.generateConfig" />
+        <item itemvalue="Python.ImageOverlay" />
+        <item itemvalue="Python.kamera" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b90bde8c-61f8-472b-b740-e459ae8b1c24" name="Default Changelist" comment="" />
+      <created>1602482658479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602482658479</updated>
+      <workItem from="1602482671758" duration="4190000" />
+      <workItem from="1603014168520" duration="1171000" />
+      <workItem from="1603015349180" duration="3441000" />
+      <workItem from="1603084427134" duration="7276000" />
+      <workItem from="1603303020193" duration="3000" />
+      <workItem from="1603610842933" duration="13923000" />
+      <workItem from="1603776953638" duration="189000" />
+      <workItem from="1603777270150" duration="530000" />
+      <workItem from="1603778029514" duration="813000" />
+      <workItem from="1603778856018" duration="42000" />
+      <workItem from="1603778911238" duration="2500000" />
+      <workItem from="1603781967678" duration="320000" />
+      <workItem from="1603782303243" duration="18000" />
+      <workItem from="1603782329530" duration="5409000" />
+      <workItem from="1604140106216" duration="492000" />
+      <workItem from="1604140764997" duration="42680000" />
+      <workItem from="1604812145475" duration="132000" />
+      <workItem from="1604812318937" duration="707000" />
+      <workItem from="1604840601297" duration="9960000" />
+      <workItem from="1604850858350" duration="24652000" />
+      <workItem from="1604909443086" duration="3485000" />
+      <workItem from="1605096768269" duration="1319000" />
+      <workItem from="1605159540023" duration="1202000" />
+      <workItem from="1605418223828" duration="5120000" />
+      <workItem from="1605435990401" duration="4589000" />
+      <workItem from="1605503032184" duration="5617000" />
+      <workItem from="1606020637559" duration="6546000" />
+      <workItem from="1606076425472" duration="3000" />
+      <workItem from="1606209859218" duration="10936000" />
+      <workItem from="1606263041011" duration="2135000" />
+      <workItem from="1606276850752" duration="4048000" />
+      <workItem from="1606281611286" duration="963000" />
+      <workItem from="1606286139540" duration="642000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="185" width="800" height="677" key="#Deployment" timestamp="1605465555075">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="552" y="178" key="#Deployment/1920.-837.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1604141825155" />
+    <state x="2472" y="185" key="#Deployment/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1605465555075" />
+    <state x="600" y="207" width="800" height="677" key="#Deployment/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1604850894709" />
+    <state x="567" y="200" width="832" height="704" key="#SSH_Configurations" timestamp="1604812605075">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="567" y="200" width="832" height="704" key="#SSH_Configurations/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1604812605075" />
+    <state x="467" y="204" width="1084" height="840" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604845235517">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-837.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1603023863339" />
+    <state x="467" y="204" width="1084" height="840" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1604845235517" />
+    <state x="773" y="353" width="615" height="396" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604842657679">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="732" y="322" key="#com.intellij.fileTypes.FileTypeChooser/1920.-837.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1602482991683" />
+    <state x="773" y="353" width="615" height="396" key="#com.intellij.fileTypes.FileTypeChooser/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1604842657679" />
+    <state x="792" y="332" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1604812959656">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="792" y="332" width="424" height="584" key="#com.intellij.ide.macro.MacrosDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1604812959656" />
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605426419974">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="726" y="301" width="524" height="502" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1605426419974" />
+    <state x="167" y="125" width="1653" height="855" key="DiffContextDialog" timestamp="1604870274993">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="167" y="125" width="1653" height="855" key="DiffContextDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1604870274993" />
+    <state x="2024" y="101" width="1713" height="877" key="DirDiffDialog" timestamp="1605465555473">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2024" y="101" width="1713" height="877" key="DirDiffDialog/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1605465555473" />
+    <state x="167" y="125" width="1653" height="855" key="DirDiffDialog/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1604848705308" />
+    <state x="2660" y="285" width="424" height="484" key="FileChooserDialogImpl" timestamp="1606216814190">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/1920.-837.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1604216497281" />
+    <state x="2660" y="285" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606216814190" />
+    <state x="781" y="305" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1605099329725" />
+    <state x="353" y="27" width="1272" height="1053" key="FileDocumentManager.FileCacheConflict" timestamp="1604862844083">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="353" y="27" width="1272" height="1053" key="FileDocumentManager.FileCacheConflict/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1604862844083" />
+    <state width="836" height="501" key="GridCell.Tab.0.bottom" timestamp="1606282279964">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="937" height="303" key="GridCell.Tab.0.bottom/1920.-837.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1604239241881" />
+    <state width="836" height="501" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606282279964" />
+    <state width="902" height="269" key="GridCell.Tab.0.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1605509538336" />
+    <state width="836" height="501" key="GridCell.Tab.0.center" timestamp="1606282279964">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="937" height="303" key="GridCell.Tab.0.center/1920.-837.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1604239241881" />
+    <state width="836" height="501" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606282279964" />
+    <state width="902" height="269" key="GridCell.Tab.0.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1605509538336" />
+    <state width="836" height="501" key="GridCell.Tab.0.left" timestamp="1606282279964">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="937" height="303" key="GridCell.Tab.0.left/1920.-837.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1604239241881" />
+    <state width="836" height="501" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606282279964" />
+    <state width="902" height="269" key="GridCell.Tab.0.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1605509538336" />
+    <state width="836" height="501" key="GridCell.Tab.0.right" timestamp="1606282279964">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state width="937" height="303" key="GridCell.Tab.0.right/1920.-837.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1604239241881" />
+    <state width="836" height="501" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@1920.0.1920.1080" timestamp="1606282279964" />
+    <state width="902" height="269" key="GridCell.Tab.0.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1605509538336" />
+    <state width="903" height="344" key="GridCell.Tab.1.bottom" timestamp="1604894382413">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="903" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1604894382413" />
+    <state width="903" height="344" key="GridCell.Tab.1.center" timestamp="1604894382413">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="903" height="344" key="GridCell.Tab.1.center/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1604894382413" />
+    <state width="903" height="344" key="GridCell.Tab.1.left" timestamp="1604894382413">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="903" height="344" key="GridCell.Tab.1.left/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1604894382413" />
+    <state width="903" height="344" key="GridCell.Tab.1.right" timestamp="1604894382413">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="903" height="344" key="GridCell.Tab.1.right/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1604894382413" />
+    <state x="329" y="232" key="SettingsEditor" timestamp="1604850636906">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="271" y="202" key="SettingsEditor/1920.-837.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1604221047232" />
+    <state x="329" y="232" key="SettingsEditor/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1604850636906" />
+    <state x="351" y="467" width="463" height="263" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration" timestamp="1604848679396">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="351" y="467" width="463" height="263" key="com.jetbrains.plugins.remotesdk.ui.RemoteMappingsConfiguration/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1604848679396" />
+    <state x="2386" y="0" width="1435" height="1011" maximized="true" key="dock-window-1" timestamp="1604909823823">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1920" y="-837" width="705" height="696" maximized="true" key="dock-window-1/1920.-837.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1604141122033" />
+    <state x="2386" y="0" width="1435" height="1011" maximized="true" key="dock-window-1/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1604909823823" />
+    <state x="883" y="280" width="320" height="539" key="ftp.server.browser" timestamp="1604849653280">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="847" y="250" width="320" height="539" key="ftp.server.browser/1920.-837.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1604141883694" />
+    <state x="883" y="280" key="ftp.server.browser/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1604849653280" />
+    <state x="668" y="255" width="672" height="687" key="search.everywhere.popup" timestamp="1604848718689">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/1920.-837.1080.1880/0.0.1920.1040@0.0.1920.1040" timestamp="1604235716811" />
+    <state x="668" y="255" width="672" height="687" key="search.everywhere.popup/67.27.1853.1053/1920.0.1920.1080@67.27.1853.1053" timestamp="1604848718689" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Mikroskop$automatedMain.coverage" NAME="automatedMain Coverage Results" MODIFIED="1604848186908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mikroskop$ImageOverlay.coverage" NAME="ImageOverlay Coverage Results" MODIFIED="1605097177557" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mikroskop$processImages.coverage" NAME="processImages Coverage Results" MODIFIED="1606282170980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mikroskop$kamera.coverage" NAME="kamera Coverage Results" MODIFIED="1604876252881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mikroskop$test.coverage" NAME="test Coverage Results" MODIFIED="1604236958938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mikroskop$focusing.coverage" NAME="focusing Coverage Results" MODIFIED="1606282069564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mikroskop$main.coverage" NAME="main Coverage Results" MODIFIED="1604209953445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mikroskop$openCVTutorial.coverage" NAME="openCVTutorial Coverage Results" MODIFIED="1604164033786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mikroskop$naechsterTest.coverage" NAME="naechsterTest Coverage Results" MODIFIED="1604844060579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mikroskop$generateConfig.coverage" NAME="generateConfig Coverage Results" MODIFIED="1606070060423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mikroskop$allesLöschen.coverage" NAME="allesLöschen Coverage Results" MODIFIED="1604850663972" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mikroskop$farbtest.coverage" NAME="farbtest Coverage Results" MODIFIED="1603085790580" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mikroskop$auto_stack.coverage" NAME="auto_stack Coverage Results" MODIFIED="1604217088531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Mikroskop$mikroskop.coverage" NAME="mikroskop Coverage Results" MODIFIED="1604841316737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
