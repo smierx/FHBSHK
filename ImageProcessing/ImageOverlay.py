@@ -2,9 +2,7 @@ from PIL import Image
 import numpy as np
 import os
 import time
-#todo Pfad ändern um nicht mehr per Hand zu schieben -> sollte funktionieren
-#todo Wie lösche ich aufem RSP am besten?
-#todo Aus welchen Repos kann ich was klauen?
+
 def overlay(path):
     pass
 
